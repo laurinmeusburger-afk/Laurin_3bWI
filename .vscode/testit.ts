@@ -1,0 +1,1 @@
+console.log("Hello, TypeScript! This is a test file for the project.");
